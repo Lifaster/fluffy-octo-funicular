@@ -1,0 +1,15 @@
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.csproj.AssemblyReference.cache
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.AssemblyInfoInputs.cache
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.AssemblyInfo.cs
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.csproj.CoreCompileInputs.cache
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\bin\Debug\net6.0\eaaaae.exe
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\bin\Debug\net6.0\eaaaae.deps.json
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\bin\Debug\net6.0\eaaaae.runtimeconfig.json
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\bin\Debug\net6.0\eaaaae.dll
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\bin\Debug\net6.0\eaaaae.pdb
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.dll
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\refint\eaaaae.dll
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.pdb
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.genruntimeconfig.cache
+C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\ref\eaaaae.dll
