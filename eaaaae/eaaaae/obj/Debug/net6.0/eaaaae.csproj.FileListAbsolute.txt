@@ -13,3 +13,6 @@ C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\refint\eaaa
 C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.pdb
 C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.genruntimeconfig.cache
 C:\Users\Новый ПК\source\repos\eaaaae\eaaaae\obj\Debug\net6.0\ref\eaaaae.dll
+D:\Visual codes программирование\fluffy-octo-funicular\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.dll
+D:\Visual codes программирование\fluffy-octo-funicular\eaaaae\eaaaae\obj\Debug\net6.0\refint\eaaaae.dll
+D:\Visual codes программирование\fluffy-octo-funicular\eaaaae\eaaaae\obj\Debug\net6.0\eaaaae.pdb

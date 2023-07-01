@@ -1,65 +1,47 @@
 ﻿using System;
 
-class Program
+namespace FirstApp
 {
-    static void Main(string[] args)
+    class Human
     {
-        Anketa();
-        
-        Console.ReadKey();
+        // Поля класса
+        public string name;
+        public int age;
+
+        // Метод класса
+        public void Greetings()
+        {
+            Console.WriteLine("Меня зовут {0}, мне {1}", name, age);
+        }
     }
-    static void Anketa()
+
+    struct Animal
     {
-        (string Name, string surname, int Age, bool Pet, string[] PetsName, string[] favcolors) Ank;
-        Console.WriteLine("Ваше имя");
-        Ank.Name = Console.ReadLine();
-        Console.WriteLine("Ваша фамилия");
-        Ank.surname = Console.ReadLine();
-        Console.WriteLine("Сколько вам лет?");
-        Ank.Age = int.Parse(Console.ReadLine());
-        Console.WriteLine("У вас есть домашние питомцы? да/нет");
-        switch (Console.ReadLine())
+        // Поля структуры
+        public string type;
+        public string name;
+        public int age;
+
+        // Метод структуры
+        public void Info()
         {
-            case "yes" or "да":
-                Ank.Pet = true;
-                break;
-            case "no" or "нет":
-                Ank.Pet = false;
-                break;
-            default:
-                Ank.Pet = false;
-                break;
+            Console.WriteLine("Это {0} по кличке {1}, ему {2}", type, name, age);
         }
-        if (Ank.Pet == true)
-        {
-            Console.WriteLine("Сколько у вас питомцев?");
-            int CountPet = int.Parse(Console.ReadLine());
-            Ank.PetsName = Pets(CountPet);
-        }
-        Console.WriteLine("Сколько у вас любимых цветов?");
-        int CountColor = int.Parse(Console.ReadLine());
-        Ank.favcolors = FavColors(CountColor);
-        Console.WriteLine("жду");
     }
-    static string[] Pets(int count)
+
+    class Program
     {
-        var PetsName = new string[count];
-        for (int i = 0; i < count; i++)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Имя {0} питомца", i+1);
-            PetsName[i] = Console.ReadLine();
+            Human human = new Human();
+            human.Greetings();
+
+            human.name = "Дмитрий";
+            human.age = 23;
+            human.Greetings();
+
+
+            Console.ReadKey();
         }
-        return PetsName;
-    }
-    static string[] FavColors(int count)
-    {
-        var favColors = new string[count];
-        for (int i = 0; i < count; i++)
-        {
-            Console.WriteLine("Любимый цвет №{0}", i + 1);
-            favColors[i] = Console.ReadLine();
-        }
-        return favColors;
     }
 }
-        
